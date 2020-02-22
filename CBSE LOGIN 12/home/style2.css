@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous|Abel|Open+Sans|Roboto&display=swap');
+
+html,
+body {
+  height: 100%;
+}
+body {
+  margin: 0;
+  background: black;
+  font-family: sans-serif;
+  font-weight: 100;
+}
+
+
+#table1 {
+
+  width: 70%;
+  border-collapse: collapse;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+#table2 {
+  margin-top: 60px;
+  width: 90%;
+  border-collapse: collapse;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+#table3 {
+
+  width:100%;
+  border-collapse: collapse;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+#table4 {
+
+  width: 100%;
+  border-collapse: collapse;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+#table5 {
+
+  width: 100%;
+  border-collapse: collapse;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+#table6 {
+
+  width: 100%;
+  border-collapse: collapse;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+#table8 {
+  margin-top: 20px;
+  width: 90%;
+  border-collapse: collapse;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+#table9 {
+  margin-top: 20px;
+  width: 100%;
+  border-collapse: collapse;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+ th{
+
+  padding: 10px !important;
+  border: 1px solid #fff;
+  color: white;
+
+}
+ td {
+  padding: 10px !important;
+  background-color: white !important;
+  color: #333;
+  text-align: left !important;
+  border: 1px solid #ddd;
+}
+#table4 td{
+  padding: 10px !important;
+  background-color: white;
+  color: #333;
+  text-align: center !important;
+}
+#table3  td {
+ padding: 10px !important;
+ background-color: rgba(255, 255, 255, 0.2);
+ color: #333;
+ text-align: center !important;
+ border: 1px solid #ddd;
+}
+#table5 td{
+  padding: 10px !important;
+  background-color: rgba(255, 255, 255, 0.2);
+  color: #333;
+  text-align: center !important;
+}
+#table6  td {
+ padding: 10px !important;
+ background-color: rgba(255, 255, 255, 0.2);
+ color: #333;
+ text-align: center !important;
+}
+th {
+  text-align: center !important;
+}
+thead th {
+  background-color: #4cc0c1;
+}
+tbody td {
+  position: relative;
+}
